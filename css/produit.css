@@ -1,0 +1,109 @@
+
+
+.produit
+{
+	padding-bottom: 60px;
+
+	
+}
+
+.produit img {
+ width: 100%;
+ height: 50%;
+}
+
+.produit .info {
+  padding: 0;
+}
+.produit .dose
+{
+  padding: 15px 10px;
+  width: 200px;
+  border-radius: 30px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.produit .info:first-child {
+  background-color: #125840;
+  color: #fff;
+  padding-top: 30px;
+  padding-bottom: 30px
+}
+.produit .description
+{
+  padding: 20px;
+  width: 80%;
+}
+.produit .h1 {
+  margin: 40px;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.produit p {
+  margin-top: 10px;
+  margin-left: 40px;
+  line-height: 2;
+  font-size: 18px
+}
+.produit b
+{
+	color: #f00;
+	font-size: 24px;
+	margin-left: 40px 
+
+}
+.produit ul
+{
+  margin-top: 30px;
+	margin-left: 40px;
+
+}
+.produit ul li
+{
+	margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.produit .read-more {
+  display: inline-block;
+  padding: 8px 20px;
+  margin: 0 0 0 40px;
+  background-color: #ed1d24;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.garantee
+{
+  display: block;
+  padding-top: 15px;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: #fff;
+  border:3px solid #009640;
+  text-align: center;
+ margin: 0 auto;
+ font-weight: bold;
+ font-style: italic;
+ color: #009640;
+
+}
+.ingredient
+{
+  background-color: #fff;
+  border: 3px solid #e43c2f;
+  padding: 3px;
+  width: 130px;
+  text-align: center;
+  margin: 10px auto;
+  font-weight: bold;
+  color: #e43c2f;
+  font-size: 24px;
+}
+
